@@ -1,2 +1,2 @@
 # Delta-Demo
-basic repository to understand working of github
+basic repository to understand working of github.
